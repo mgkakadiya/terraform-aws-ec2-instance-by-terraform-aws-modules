@@ -1,3 +1,7 @@
+#Full repo available on (https://github.com/terraform-aws-modules)
+[![Community-Repo](https://github.com/terraform-aws-modules)](https://github.com/terraform-aws-modules)
+
+
 # AWS EC2 Instance Terraform module
 
 Terraform module which creates an EC2 instance on AWS.
