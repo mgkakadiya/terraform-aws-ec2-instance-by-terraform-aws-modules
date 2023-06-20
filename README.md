@@ -1,5 +1,5 @@
 #Full repo available on (https://github.com/terraform-aws-modules)
-[![Community-Repo](https://github.com/terraform-aws-modules)](https://github.com/terraform-aws-modules)
+[![[Community-Repo](https://github.com/terraform-aws-modules)]](community repository)
 
 
 # AWS EC2 Instance Terraform module
